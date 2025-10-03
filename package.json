@@ -1,7 +1,14 @@
 {
   "name": "@alchemystai/langchain-js",
   "module": "index.ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "keywords": [
+    "langchain",
+    "genai",
+    "alchemystai",
+    "alchemyst-ai",
+    "context engineering"
+  ],
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
