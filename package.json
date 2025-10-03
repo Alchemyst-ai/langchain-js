@@ -1,7 +1,7 @@
 {
   "name": "@alchemystai/langchain-js",
   "module": "index.ts",
-  "version": "0.0.2",
+  "version": "0.0.2-fix1",
   "keywords": [
     "langchain",
     "genai",
